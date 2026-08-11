@@ -373,6 +373,13 @@ python cloudbase_openai.py
 - **云函数**（01、03）：在 CloudBase 控制台 → 云函数中新建，将对应目录的 `index.js` 与 `package.json` 上传部署即可。云函数运行时会自动注入环境信息，无需额外配置密钥。
 - **云托管**（04）：在 CloudBase 控制台 → 云托管中新建服务，上传 `04-hy3-openai` 目录代码（已含 `Dockerfile`），并在服务设置中配置环境变量（见上文）。
 
+## 鸣谢
+
+🙏 感谢 [LINUX DO](https://linux.do) 社区的支持与讨论。
+
+详细教程可以看 [小程序成长计划 10 亿 hy3 和 10 万张生图 在云函数/云托管中的 实践教程](https://linux.do/u/gmyxds/activity/topics)
+
+
 ## License
 
 ISC
