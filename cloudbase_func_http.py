@@ -55,6 +55,7 @@ def http_hy_image(envId, cloud_func_name):
 
 
 def main():
+    # 第二个参数是云函数的名称，如果你修改了，此处也需要修改
     http_hy_text(envId, "hy3_text")
     # http_hy_image(envId,"hy_image")
 
