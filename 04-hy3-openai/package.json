@@ -1,0 +1,18 @@
+{
+  "name": "hy3-openai-server",
+  "version": "1.0.0",
+  "description": "CloudBase 云托管：OpenAI 兼容的混元大模型 HTTP 服务（文本生成/流式SSE/图片生成）",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "ws": "^8.21.0",
+    "@cloudbase/node-sdk": "^3.18.3",
+    "express": "^4.19.2"
+  }
+}

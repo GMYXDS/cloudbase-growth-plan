@@ -1,0 +1,16 @@
+{
+  "name": "image-generation-openai",
+  "version": "1.0.0",
+  "description": "CloudBase 云函数：OpenAI 兼容的图片生成接口（基于混元生图模型，支持文生图/图生图）",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^8.21.0",
+    "wx-server-sdk": "^3.0.5-beta.1"
+  }
+}

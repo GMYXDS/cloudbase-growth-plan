@@ -1,0 +1,16 @@
+{
+  "name": "text-completion-openai",
+  "version": "1.0.0",
+  "description": "CloudBase 云函数：OpenAI 兼容的 Chat Completions 接口（基于 cloudbase 大模型）",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^8.21.0",
+    "wx-server-sdk": "^3.0.5-beta.1"
+  }
+}
