@@ -377,7 +377,7 @@ python cloudbase_openai.py
 
 🙏 感谢 [LINUX DO](https://linux.do) 社区的支持与讨论。
 
-详细教程可以看 [小程序成长计划 10 亿 hy3 和 10 万张生图 在云函数/云托管中的 实践教程](hhttps://linux.do/t/topic/2741231)
+详细教程可以看 [小程序成长计划 10 亿 hy3 和 10 万张生图 在云函数/云托管中的 实践教程](https://linux.do/t/topic/2741231)
 
 
 ## License
